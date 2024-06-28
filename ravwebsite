@@ -1,0 +1,112 @@
+[11:55 AM, 6/28/2024] paulrav: html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAVAPOLISTECH - ICT Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 1em 0;
+            text-align: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            margin: 0 15…
+[11:56 AM, 6/28/2024] paulrav: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAVAPOLISTECH - ICT Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 1em 0;
+            text-align: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            padding: 2em;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RAVAPOLISTECH</h1>
+        <p>Your Reliable ICT Service Provider</p>
+    </header>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Software Development</li>
+                <li>IT Support</li>
+                <li>Network Management</li>
+                <li>Cloud Services</li>
+                <li>Cybersecurity</li>
+                <li>Data Analysis</li>
+                <li>Consulting</li>
+            </ul>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>RAVAPOLISTECH is dedicated to providing top-notch ICT services to help your business thrive in the digital world. With a team of experienced professionals, we deliver solutions that meet your specific needs.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:paulrav2@gmail.com">paulrav2@gmail.com</a></p>
+            <p>Phone: 0717914921</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 RAVAPOLISTECH. All rights reserved.</p>
+    </footer>
+</body>
+</html>
